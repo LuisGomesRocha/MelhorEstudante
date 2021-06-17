@@ -1,0 +1,15 @@
+O que seria bom ver nessa resposta?
+
+Peso 6: Objetivo de aprendizado claro e o motivo.
+Peso 3: Como ela planeja recuperar as informações (gravar vídeos, fazer resumos, implementar projetos) e o motivo.
+Peso 1: Como ela planeja consumir informação (o que ela vai procurar para achar a teoria) e o motivo.
+Talvez algum ponto de atenção em relação ao controle da quantidade de informações e o motivo.
+
+Resposta do Especialista:
+
+Objetivo de aprendizado: Ser capaz de implementar a api da casa do código e mercado livre com o ecossistema do micronaut.
+Motivo da escolha: Escolhi esse objetivo porque sinto que ele define o nível de desafio interessante para que eu possa ficar pronto para enfrentar projetos com a tecnologia.
+Para maximizar a recuperação do conteúdo, eu usaria vídeos e resumos em cima de cada coisa que eu estivesse lendo. Além do código que eu vou implementar.
+Motivo da escolha: Organizar a informação do jeito que eu acho melhor ajuda no processo de facilitação da recuperação da informação consumida.
+Minha fonte base de estudo seria a documentação do Micronaut.
+Motivo da escolha: Micronaut é uma tecnologia, portanto a documentação é a fonte de maior autoridade sobre tudo que pode ser falado relativo à tecnologia.
